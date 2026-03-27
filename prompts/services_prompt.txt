@@ -1,0 +1,24 @@
+Act as a professional website copywriter.
+
+Create a services page for a café.
+
+Business details:
+- Name: Albatross Cafe
+- Location: Bhopal
+- Target audience: Students, freelancers, young professionals, couples
+- Style: Cozy, aesthetic, modern
+- Offerings: Specialty coffee, cold brews, desserts, sandwiches, light meals
+- Unique selling point: A calm, aesthetic workspace café with premium coffee and a peaceful vibe for work and relaxation
+
+Instructions:
+1. List 4–5 main services/categories offered by the café
+2. For each service, include:
+   - Service name
+   - Short description (2–3 lines)
+   - Why it’s special (benefit-focused, not generic)
+
+Tone:
+- Friendly, calm, slightly premium
+- Clear and engaging
+
+Make the content feel specific to the café and ready for a real website.
