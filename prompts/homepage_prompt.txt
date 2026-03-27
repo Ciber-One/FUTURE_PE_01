@@ -1,1 +1,26 @@
-Homepage prompt will go here
+Act as a professional website copywriter specializing in high-converting local business websites.
+
+Create homepage copy for a café.
+
+Business details:
+- Name: Albatross Cafe
+- Location: Bhopal
+- Target audience: Students, freelancers, young professionals, couples
+- Style: Cozy, aesthetic, modern
+- Offerings: Specialty coffee, cold brews, desserts, sandwiches, light meals
+- Unique selling point: A calm, aesthetic workspace café with premium coffee and a peaceful vibe for work and relaxation
+- Pricing: Mid to slightly premium
+- Customer goal: Work, study, relax, and socialize
+
+Tone guidelines:
+- Friendly, calm, slightly premium
+- Simple and human (avoid robotic or generic phrases)
+
+Output format:
+1. Headline
+2. Subheadline
+3. Intro paragraph (80–120 words)
+4. Key highlights (3–4 bullet points)
+5. CTA section
+
+Ensure the content feels natural, specific to the business, and ready to be used on a real website.
