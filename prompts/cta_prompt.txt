@@ -1,0 +1,31 @@
+Act as a professional conversion-focused copywriter.
+
+Create multiple call-to-action (CTA) sections for a café website.
+
+Business details:
+- Name: Albatross Cafe
+- Location: Bhopal
+- Target audience: Students, freelancers, young professionals
+- Style: Cozy, aesthetic, calm
+- Goal: Increase walk-ins and customer visits
+
+Instructions:
+Generate 5 different CTA variations.
+
+Each CTA should include:
+1. A short headline
+2. 1–2 lines of persuasive text
+3. Action buttons (2–3 options)
+
+CTA types to include:
+- Visit now CTA
+- Work/study CTA
+- Relax/chill CTA
+- Food/coffee CTA
+- General brand CTA
+
+Tone:
+- Friendly, inviting, calm
+- Simple and natural
+
+Avoid generic phrases. Make each CTA feel real and specific to the café.
